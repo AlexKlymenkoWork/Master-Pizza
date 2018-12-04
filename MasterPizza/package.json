@@ -1,0 +1,19 @@
+{
+  "name": "master-pizza",
+  "version": "1.0.0",
+  "description": "pizza recipe app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexKlymenkoWork/Master-Pizza.git"
+  },
+  "author": "alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexKlymenkoWork/Master-Pizza/issues"
+  },
+  "homepage": "https://github.com/AlexKlymenkoWork/Master-Pizza#readme"
+}
