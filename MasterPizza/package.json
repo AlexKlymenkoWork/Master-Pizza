@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AlexKlymenkoWork/Master-Pizza/issues"
   },
-  "homepage": "https://github.com/AlexKlymenkoWork/Master-Pizza#readme"
+  "homepage": "https://github.com/AlexKlymenkoWork/Master-Pizza#readme",
+  "devDependencies": {
+    "webpack": "^4.27.0"
+  }
 }
